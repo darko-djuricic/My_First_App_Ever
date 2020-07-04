@@ -1,0 +1,3 @@
+Igra znanja se sastoji iz vise oblasti koje sadrze pet pitanja.
+Svako pitanje ima 3 ponudjena odgovora. Na pitanje odgovarate unosenjem broja datog odgovora.
+Srecno!
